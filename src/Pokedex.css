@@ -1,0 +1,30 @@
+.Pokedex {
+    width: 80%;
+    margin: 0 auto;
+  }
+    
+  .Pokedex input {
+    font-family: "Gentium Book Basic", serif;
+    box-sizing: border-box;
+    width: 80%;
+    padding: 10px;
+    font-size: 24px;
+    background-clip: padding-box;
+    border-color: rgba(0,0,0,0.25);
+    border-radius: 5px;
+    line-height: 20px;
+    border: 1px solid #d1d5da;
+  }
+  
+  .Pokedex button {
+    color: white;
+    margin-top: 10px;
+    width: 80%;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 5px;
+    border: 1px solid #e93609;
+    margin-bottom: 50px;
+    background-color: #d3220b;
+    font-family: "Gentium Book Basic", serif;
+  }

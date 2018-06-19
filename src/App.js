@@ -12,9 +12,11 @@ class App extends Component {
         <div className="App-header">
           <h1>API Party</h1>
         </div>
-        <ul>
+        <ul className="navLinks">
           <li>
             <NavLink to="/github">GitHub</NavLink>
+          </li>
+          <li>
             <NavLink to="/pokedex">Pokedex</NavLink>
           </li>
          </ul>
